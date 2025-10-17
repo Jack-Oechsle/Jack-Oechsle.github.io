@@ -1,15 +1,15 @@
-#Jackson H. Oechsle
+# Jackson H. Oechsle
 Contact Info:
 email: Jackson.Oechsle@gmail.com | JHOechsle@proton.me
-##Summary
+## Summary
 example info
-##Education
+## Education
 example info
-##Technical Skills
+## Technical Skills
 example info
-##Professional Experience
+## Professional Experience
 example info
-##Work Experience
+## Work Experience
 example info
-##Activities and Societies
+## Activities and Societies
 example info
