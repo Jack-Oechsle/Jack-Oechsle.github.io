@@ -41,6 +41,7 @@ Tools, Administration,  and OS: GitHub, Git, Windows, MacOS, Linux/Unix, Microso
 
 ## City of Westminster: Tennis Instructor
 - Youth tennis instruction for a city-sponsored program, mentoring underprivileged children, and encouraging community engagement
+
 # Activities and Societies
 ## National Society of Leadership and Success (Sigma Alpha Pi): Member
 - Success Network Team roles served: Facilitator, Activity Coordinator, Time Keeper, Communications Coordinator, Logistics Coordinator,  Recorder, SNT Leader
